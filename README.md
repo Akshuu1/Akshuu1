@@ -1,4 +1,5 @@
-# 💫 About Me:
+<img src ="https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png" style="width:100%;height:250px;object-fit:cover;object-position:center">
+💫 About Me:
 Hey there! 👋 I'm Akshat Agrawal<br><br>🎓 First-Year CS & AI Student at Newton School of Technology.<br><br>💡 Passionate about AI, Web Development, and Creative Coding.<br><br>📷 Photography Enthusiast, capturing moments that tell stories.<br><br>🎨 Loves designing intuitive and interactive user experiences.<br><br>🔥 Always exploring new tech, tools, and frameworks!<br><br>
 
 
