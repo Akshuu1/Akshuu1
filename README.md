@@ -8,7 +8,8 @@ Hey there! 👋 I'm Akshat Agrawal<br><br>🎓 First-Year CS & AI Student at New
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-(https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)(https://img.shields.io/badge/react-%2300D1F2.svg?style=for-the-badge&logo=react&logoColor=white)
+<img src="https://img.shields.io/badge/react-%2300D1F2.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
+    <img src="https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Akshuu1&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Akshuu1&theme=radical&hide_border=true)<br/>
